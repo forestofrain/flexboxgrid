@@ -1,7 +1,7 @@
 {
-  "name": "flexboxgrid",
+  "name": "flexboxgrid-less",
   "version": "6.0.0",
-  "homepage": "https://github.com/kristoferjoseph/flexboxgrid",
+  "homepage": "https://github.com/forestofrain/flexboxgrid",
   "authors": [
     "@dam"
   ],
@@ -20,5 +20,6 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "private": true
 }
