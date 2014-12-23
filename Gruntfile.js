@@ -68,11 +68,11 @@ module.exports = function(grunt) {
         watch: {
             css: {
                 files: 'src/**/*',
-                tasks: ['default'],
+                tasks: ['default']
             },
             livereload: {
                 options: {
-                    livereload: true,
+                    livereload: true
                 },
                 files: [
                         'index.html',
